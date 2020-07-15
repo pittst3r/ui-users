@@ -21,6 +21,7 @@
 * `Fee/fines details` not always include `Service Point` as `Created at`. Refs UIU-1725.
 * Add permission to anonymize manually closed loans. Fixes UIU-1757.
 * Include tag-related permissions in `ui-users.edit` permission. Refs UITAG-29.
+* Increment `@folio/stripes` to `v5`, plus corresponding dev-dep increments.
 
 ## [4.0.0](https://github.com/folio-org/ui-users/tree/v4.0.0) (2020-06-17)
 [Full Changelog](https://github.com/folio-org/ui-users/compare/v3.0.0...v4.0.0)
